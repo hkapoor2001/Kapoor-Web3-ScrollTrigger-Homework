@@ -1,1 +1,1 @@
-# Kapoor-Web3-ScrollTrigger-Homework
+# Kapoor-Motion-P1
